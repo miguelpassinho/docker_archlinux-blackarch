@@ -1,4 +1,4 @@
-# Configuração Dockerfile - contêiner Docker Arch Linux com o repositório oficial do Blackarch 
+# Configuração Dockerfile - container Docker Arch Linux com o repositório oficial do Blackarch 
 <br>
 <h3>Command: docker pull oandersonbsilva/archlinux-blackarch:tag</h3>
 <br> 
